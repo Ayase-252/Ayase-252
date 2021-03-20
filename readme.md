@@ -5,6 +5,7 @@ I'm a Web Developer based in Beijing, China. I'm enthusiastic about learning eve
 ## About me
 
 - Programming Languages: JavaScript/TypeScript/Python
+- Current Interests: Node.js / React.js / FE Testing
 
 ## Contact
 
